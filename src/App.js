@@ -44,9 +44,10 @@ const App = () => {
 
     return (
 
-        <div>
+        <div style={{backgroundColor:"#EEFAFF"}}>
             <div className="item">
-                <h1 className="t1">Sign language Detection</h1>
+                <h1 className="t1">Real Time American Sign Language</h1>
+                
             </div>
             <div className="para">
                 <h1 className="para1">What is Sign Language?</h1>
